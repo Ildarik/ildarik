@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I’m Ildar (pronounced e-ldar). I like to research and experiment using JavaScript and other technologies. You can reach me on telegram: @nogmanov
+I’m Ildar (pronounced e-ldar).
+I like to research and experiment using JavaScript and other technologies. You can reach me on telegram: @nogmanov
